@@ -1,0 +1,6 @@
+colors:
+- [138, 15, 48]
+names: [pothole]
+nc: 1
+train: ../319433_Pothole Detection/images/train
+val: ../319433_Pothole Detection/images/val
